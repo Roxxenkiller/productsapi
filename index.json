@@ -1,0 +1,150 @@
+[
+   
+    {
+      "product_id": 100001,
+      "title": "Wireless Bluetooth Headphones",
+      "image": "https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 740,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 100002,
+      "title": "4K Ultra HD TV", 
+      "image": "https://plus.unsplash.com/premium_photo-1683121217848-44dde7d393e6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8NEslMjBVbHRyYSUyMEhEJTIwVFZ8ZW58MHx8MHx8fDA%3D",
+      "price": 799.99,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 100003,
+      "title": "Gaming Mouse",
+      "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 39.99,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 100004,
+      "title": "Smartphone 6.1 inch Display",
+      "image": "https://images.pexels.com/photos/20552602/pexels-photo-20552602/free-photo-of-calculator.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 499.99,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 100005,
+      "title": "Noise Cancelling Headphones",
+      "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 129.99,
+      "category": "Electronics"
+    },
+  
+    
+    {
+      "product_id": 100006,
+      "title": "Fitness Tracker Watch",
+      "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 49.99,
+      "category": "Wearables"
+    },
+    {
+      "product_id": 100007,
+      "title": "Smart Watch with Heart Rate Monitor",
+      "image": "https://images.pexels.com/photos/5083222/pexels-photo-5083222.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 199.99,
+      "category": "Wearables"
+    },
+    {
+      "product_id": 100008,
+      "title": "Smart Glasses with AR",
+      "image": "https://images.pexels.com/photos/9803059/pexels-photo-9803059.png?auto=compress&cs=tinysrgb&w=400",
+      "price": 299.99,
+      "category": "Wearables"
+    },
+    {
+      "product_id": 100009,
+      "title": "Wireless Earbuds",
+      "image": "https://images.pexels.com/photos/3780680/pexels-photo-3780680.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 59.99,
+      "category": "Wearables"
+    },
+    {
+      "product_id": 100010,
+      "title": "Activity Tracker Band",
+      "image": "https://images.pexels.com/photos/5081914/pexels-photo-5081914.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 29.99,
+      "category": "Wearables"
+    },
+  
+    
+    {
+      "product_id": 100011,
+      "title": "Smart Home Thermostat",
+      "image": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 149.99,
+      "category": "Home Appliances"
+    },
+    {
+      "product_id": 100012,
+      "title": "Robot Vacuum Cleaner",
+      "image": "https://images.pexels.com/photos/4107242/pexels-photo-4107242.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 249.99,
+      "category": "Home Appliances"
+    },
+    {
+      "product_id": 100013,
+      "title": "Air Purifier",
+      "image": "https://images.pexels.com/photos/6915312/pexels-photo-6915312.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 119.99,
+      "category": "Home Appliances"
+    },
+    {
+      "product_id": 100014,
+      "title": "Smart Fridge with Wi-Fi",
+      "image": "https://plus.unsplash.com/premium_photo-1729431432431-fabe5caa7078?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnQlMjBGcmlkZ2V8ZW58MHx8MHx8fDA%3D",
+      "price": 899.99,
+      "category": "Home Appliances"
+    },
+    {
+      "product_id": 100015,
+      "title": "Cordless Handheld Vacuum",
+      "image": "https://images.pexels.com/photos/9462146/pexels-photo-9462146.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 79.99,
+      "category": "Home Appliances"
+    },
+  
+    
+    {
+      "product_id": 100016,
+      "title": "Portable Power Bank",
+      "image": "https://images.pexels.com/photos/10104320/pexels-photo-10104320.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 24.99,
+      "category": "Mobile Accessories"
+    },
+    {
+      "product_id": 100017,
+      "title": "Phone Cases",
+      "image": "https://images.pexels.com/photos/18403793/pexels-photo-18403793/free-photo-of-side-view-of-iphone-15-iphone-14-and-iphone-13-cases-by-gentcreate.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 19.99,
+      "category": "Mobile Accessories"
+    },
+    {
+      "product_id": 100018,
+      "title": "Wireless Charger Stand",
+      "image": "https://images.unsplash.com/photo-1617975426095-f073792aef15?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V2lyZWxlc3MlMjBDaGFyZ2VyJTIwU3RhbmR8ZW58MHx8MHx8fDA%3D",
+      "price": 39.99,
+      "category": "Mobile Accessories"
+    },
+    {
+      "product_id": 100019,
+      "title": "Bluetooth Car Adapter",
+      "image": "https://images.pexels.com/photos/12271950/pexels-photo-12271950.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 29.99,
+      "category": "Mobile Accessories"
+    },
+    {
+      "product_id": 100020,
+      "title": "Portable Bluetooth Speaker",
+      "image": "https://images.unsplash.com/photo-1558537348-c0f8e733989d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBvcnRhYmxlJTIwQmx1ZXRvb3RoJTIwU3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 49.99,
+      "category": "Mobile Accessories"
+    }
+  ]
+  
